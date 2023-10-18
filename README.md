@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **brayanitkaraujo/brayanitkaraujo** 
 
 Here are some ideas:
@@ -18,4 +18,4 @@ Caracteristics:
 
 At the time of writing (MMXXIII) I'm 16 years old and, I study at Uruguai High School, I also  take an english course and dedicate my time studying Theology and Philosophy.
 
-
+![](https://media.tenor.com/e3GDxDEi88QAAAAd/book-bookofshadows.gif)
